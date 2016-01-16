@@ -1,0 +1,28 @@
+name: 'Satya Healing '
+favicon: null
+layout_spectrum: 0.16315789427608252
+typography_spectrum: 0.39034959441050887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6384679530747235
+  lightness: 0.6564699951559305
+  saturation: 0.7378037553280592
+  rhythmicContrast: 0.8739618076942861
+purpose: []
