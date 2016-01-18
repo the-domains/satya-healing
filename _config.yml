@@ -1,29 +1,41 @@
-name: 'Satya Healing '
-favicon: null
-layout_spectrum: 0.16315789427608252
-typography_spectrum: 0.39034959441050887
 title: 'Integrative Holistic Therapies: Ancient Wisdom and spiritual technology with Sudevi Kramer, M.A. LMT, E-RYT 500'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7378037553280592
+  brandStrength: 0.6384679530747235
+  rhythmicContrast: 0.8739618076942861
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6384679530747235
   lightness: 0.6564699951559305
-  saturation: 0.7378037553280592
-  rhythmicContrast: 0.8739618076942861
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 'Satya Healing '
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6618887
+layout_spectrum: 0.8709949
